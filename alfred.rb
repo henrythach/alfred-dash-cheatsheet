@@ -3,7 +3,7 @@ cheatsheet do
   title 'Alfred 3 - Script Filter Format'
 
   # Used for the filename of the docset
-  docset_file_name 'Sample'
+  docset_file_name 'Alfred'
 
   # Used as the initial search keyword (listed in Preferences > Docsets)
   keyword 'alfred'

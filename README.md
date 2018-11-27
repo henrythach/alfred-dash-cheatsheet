@@ -5,5 +5,5 @@ Just a [Dash](https://kapeli.com/dash) cheatsheet for building [Alfred workflows
 ```console
 $ bundle install
 $ bundle exec cheatset generate alfred.rb
-$ open Sample.docset
+$ open Alfred.docset
 ```
